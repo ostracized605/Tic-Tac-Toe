@@ -1,0 +1,14 @@
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\bin\Debug\net8.0\Project.exe
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\bin\Debug\net8.0\Project.deps.json
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\bin\Debug\net8.0\Project.dll
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\bin\Debug\net8.0\Project.pdb
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.dll
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\refint\Project.dll
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.pdb
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\ref\Project.dll
