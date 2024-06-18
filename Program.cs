@@ -1,6 +1,8 @@
 ﻿using System;
 namespace TicTacToeGame{
+
     internal class TTT{
+    private const string version="1.0.0";
         static void Main(){
             int n=3;
             while(true){

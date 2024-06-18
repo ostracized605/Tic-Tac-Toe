@@ -12,3 +12,4 @@ c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\refint
 c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.pdb
 c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
 c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\ref\Project.dll
+c:\Users\user\Desktop\projects\ideas\Tic Tac Toe\Project\obj\Debug\net8.0\Project.sourcelink.json
